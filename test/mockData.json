@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 62,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "The Indian Express",
+      "title": "Can chia seeds beat animal protein? Are they better in controlling cholesterol and blood sugar? - The Indian Express",
+      "description": null,
+      "url": "https://indianexpress.com/article/health-wellness/chia-seeds-animal-protein-cholesterol-blood-sugar-8481178/",
+      "urlToImage": null,
+      "publishedAt": "2023-03-06T03:40:39Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Brian Lowry",
+      "title": "'The Last of Us' reminds us people are the real monsters in a zombie apocalypse - CNN",
+      "description": "",
+      "url": "https://www.cnn.com/2023/03/05/entertainment/the-last-of-us-episode-8-recap/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230304063742-01-the-last-of-us-episode-8.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-03-06T03:06:00Z",
+      "content": "Editors Note: The following contains spoilers about the eighth episode of The Last of Us, which premiered on March 5. As The Walking Dead and its progeny demonstrated time and again, people left to … [+2533 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YourTango"
+      },
+      "author": "NyRee Ausler",
+      "title": "The Infinite Sound Said To Be The Equivalent Of 'Audio Torture' - YourTango",
+      "description": "The Shepard tone is an auditory illusion that makes the sound seem to continually descend or ascend, and has been used to ramp up emotions and tension.",
+      "url": "https://www.yourtango.com/self/shepard-tone-auditory-illusion",
+      "urlToImage": "https://www.yourtango.com/sites/default/files/styles/listing_big/public/image_blog/shepard-tone-infinite-sound-audio-torture.png?itok=AbAwmBBJ",
+      "publishedAt": "2023-03-06T00:33:57Z",
+      "content": "Most of us are familiar with optical illusions. They make our eyes and brains question whether they are seeing things as they truly are, or creating our own version of what we see. Similarly, an aud… [+4181 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Salon"
+      },
+      "author": "Mary Elizabeth Williams",
+      "title": "Is working out always better for depression than therapy and medication? Not so fast, experts say - Salon",
+      "description": "New research boosts the case for working out — but the study has limitations",
+      "url": "https://www.salon.com/2023/03/05/is-working-out-always-better-for-depression-than-therapy-and-medication-not-so-fast-experts-say/",
+      "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/03/woman_running_stretching_meditating_exercising_1343607656.jpg",
+      "publishedAt": "2023-03-06T00:30:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Neurosciencenews.com"
+      },
+      "author": "Neuroscience News",
+      "title": "How Common is Face Blindness? - Neuroscience News",
+      "description": null,
+      "url": "https://neurosciencenews.com/prosopagnosia-face-blindness-22715/",
+      "urlToImage": null,
+      "publishedAt": "2023-03-05T23:21:58Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsnationnow.com"
+      },
+      "author": "Alix Martichoux",
+      "title": "‘Ozempic face’: Doctors explain side effect of weight loss drugs - NewsNation Now",
+      "description": "Patients are finding that rapid weight loss triggered by drugs like Ozempic, Wegovy and Mounjaro is not without side effects.",
+      "url": "https://www.newsnationnow.com/health/ozempic-face-doctors-explain-side-effect-of-weight-loss-drugs/",
+      "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2023/02/GettyImages-1247410165.jpg?w=1280",
+      "publishedAt": "2023-03-05T22:39:18Z",
+      "content": "(NEXSTAR)  The diabetes drug Semaglutide has sparked a weight loss craze, as people realized it can be used to shed pounds quickly when prescribed off-label. Semaglutide is better known by the bran… [+2118 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Neurosciencenews.com"
+      },
+      "author": "Neuroscience News",
+      "title": "Can Mediterranean Diet Help People With Multiple Sclerosis Preserve Thinking Skills? - Neuroscience News",
+      "description": "For those with multiple sclerosis, following a Mediterranean diet may help lower the risk of developing cognitive, memory, and thinking problems.",
+      "url": "https://neurosciencenews.com/ms-mediterranean-diet-cognition-22713/",
+      "urlToImage": "https://neurosciencenews.com/files/2023/03/mediterranean-diet-ms-neuroscinces-public.jpg",
+      "publishedAt": "2023-03-05T22:12:51Z",
+      "content": "Summary: For those with multiple sclerosis, following a Mediterranean diet may help lower the risk of developing cognitive, memory, and thinking problems. Source:AAN People with multiple sclerosis … [+3665 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Carma Hassan",
+      "title": "'Keto-like' diet may be associated with heart disease, according to new research - CNN",
+      "description": "A low-carb, high-fat keto-like diet may be linked to higher levels of bad cholesterol and double the risk of cardiovascular events such as blocked arteries, heart attacks and strokes, according to new research.",
+      "url": "https://www.cnn.com/2023/03/05/health/keto-low-carb-high-fat-diets-heart-disease/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230305172433-saturated-fats-stock.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-03-05T21:02:00Z",
+      "content": "A low-carb, high-fat keto-like diet may be linked to higher levels of bad cholesterol and double the risk of cardiovascular events such as blocked arteries, heart attacks and strokes, according to ne… [+5359 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WSBT-TV"
+      },
+      "author": "WKRC Staff",
+      "title": "Man dies of brain-eating amoeba after rinsing sinuses with tap water, officials say - KATU",
+      "description": "A Florida man is dead after rinsing his sinuses with tap water, the county's health department said.",
+      "url": "https://wsbt.com/news/nation-world/man-dies-of-brain-eating-amoeba-after-rinsing-sinuses-with-tap-water-officials-say-naegleria-fowleri-amoeba-extremely-rare-charlotte-county-florida-headaches-nausea-vomiting-sterile-water",
+      "urlToImage": "https://katu.com/resources/media/46b54f46-0110-467e-a9b3-60259873b760-large16x9_8381af62a0594e09ba0ef96c667ba091jumbo16x9_Tapwater.png?1678041422572",
+      "publishedAt": "2023-03-05T18:43:06Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Good News Network"
+      },
+      "author": "Good News Network",
+      "title": "Cardiologist Reveals Top 10 Heart Symptoms You Should Never Ignore, But Many People Do - Good News Network",
+      "description": "A cardiologist has revealed the top 10 heart symptoms you should never ignore—but 54% wouldn’t guess they were related to poor heart health.",
+      "url": "https://www.goodnewsnetwork.org/top-10-heart-symptoms-you-should-never-ignore-poll/",
+      "urlToImage": "https://www.goodnewsnetwork.org/wp-content/uploads/2023/03/heart-symbol-pubdomain-Jean-Louis-Paulin.jpg",
+      "publishedAt": "2023-03-05T17:01:29Z",
+      "content": "Jean-Louis Paulin A leading cardiologist has revealed the top 10 heart symptoms you should never ignoreincluding nausea with chest ache and being tired upon waking. But a recent survey found 54 perc… [+3733 chars]"
+    },
+    {
+      "source": {
+        "id": "the-jerusalem-post",
+        "name": "The Jerusalem Post"
+      },
+      "author": "The Jerusalem Post",
+      "title": "This is a better, safer way to be tested for prostate cancer - study - The Jerusalem Post",
+      "description": null,
+      "url": "https://www.jpost.com/health-and-wellness/article-733432",
+      "urlToImage": null,
+      "publishedAt": "2023-03-05T16:44:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-jerusalem-post",
+        "name": "The Jerusalem Post"
+      },
+      "author": "The Jerusalem Post",
+      "title": "New technology enables the blind to navigate - Israeli study - The Jerusalem Post",
+      "description": null,
+      "url": "https://www.jpost.com/health-and-wellness/mind-and-spirit/article-733430",
+      "urlToImage": null,
+      "publishedAt": "2023-03-05T16:36:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SciTechDaily"
+      },
+      "author": null,
+      "title": "Shocking Report Reveals 59% of Long COVID Patients Suffer From Organ Damage a Year Later - SciTechDaily",
+      "description": "Organ damage persisted in 59% of long COVID patients a year after initial symptoms, even in those not severely affected when first diagnosed with the virus, according to a comprehensive new study. A new comprehensive study of organ impairment in long COVID pa…",
+      "url": "https://scitechdaily.com/shocking-report-reveals-59-of-long-covid-patients-suffer-from-organ-damage-a-year-later/",
+      "urlToImage": "https://scitechdaily.com/images/Man-Human-Body-Anatomy-Internal-Organs.jpg",
+      "publishedAt": "2023-03-05T16:35:48Z",
+      "content": "ByUniversity College London (UCL)March 5, 2023 Long COVID, also known as post-acute sequelae of SARS-CoV-2 infection (PASC), is a condition where individuals continue to experience symptoms or devel… [+5168 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Mail"
+      },
+      "author": "Emily Craig Senior",
+      "title": "The seven simple changes that will immediately boost your health - Daily Mail",
+      "description": "MailOnline has spoken to diet, exercise and mental health experts in the UK, to gather the best advice you can implement straight away to feel healthier.",
+      "url": "https://www.dailymail.co.uk/health/article-11798081/The-seven-simple-changes-immediately-boost-health.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2023/02/28/10/68162983-0-image-a-2_1677581098000.jpg",
+      "publishedAt": "2023-03-05T16:17:55Z",
+      "content": "Eating and following habits that are healthy can be challenging. From fad diets to exercises that claim to be a 'silver bullets', it can be hard to cut through what to do to boost health. MailOnlin… [+12015 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Fenit Nirappil",
+      "title": "Diabetes and obesity rising in young Americans, study finds - The Washington Post",
+      "description": "The alarming development increases the risk for heart disease.",
+      "url": "https://www.washingtonpost.com/health/2023/03/05/diabetes-obesity-young-americans/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TTQFA3ER3II6TFLKRDBJDK24HA.jpg&w=1440",
+      "publishedAt": "2023-03-05T16:02:32Z",
+      "content": "Comment on this story Diabetes and obesity are rising among young adults in the United States, an alarming development that puts them at higher risk for heart disease, according to a study of 13,000… [+3866 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Dr. Kimberly Loo",
+      "title": "At-home stool tests for colorectal cancer screening are rising in popularity, but are they right for you? - ABC News",
+      "description": "March marks the beginning of Colorectal Cancer Awareness Month.",
+      "url": "https://abcnews.go.com/Health/home-stool-tests-colorectal-cancer-screening-rising-popularity/story?id=97559455",
+      "urlToImage": "https://s.abcnews.com/images/GMA/man-dr-office1-rf-gty-ml-210326_1616757266372_hpMain_16x9_992.jpg",
+      "publishedAt": "2023-03-05T15:08:36Z",
+      "content": "At-home stool tests can be an easier way to screen for colorectal cancer than a dreaded colonoscopy. As the rates of the cancer continue to rise in younger people, home tests might help improve detec… [+4978 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Aaron McDade",
+      "title": "AI may be better than doctors at detecting breast cancer, study says - Business Insider",
+      "description": "Artificial intelligence that is able to identify potential cancer from mammograms and other scans is being tested across the globe as AI's uses grow.",
+      "url": "https://www.businessinsider.com/ai-can-detect-breast-cancer-better-than-doctors-study-says-2023-3",
+      "urlToImage": "https://i.insider.com/6404c4c6934c2c001802ade1?width=1200&format=jpeg",
+      "publishedAt": "2023-03-05T14:58:00Z",
+      "content": "The ever-growing wave of artificial intelligence technology is continuing to expand into the field of medicine, as several clinics across the globe begin experimenting with AI to help doctors detect … [+2215 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SciTechDaily"
+      },
+      "author": null,
+      "title": "Dementia Breakthrough: Three Intestinal Bacteria Found in Dementia With Lewy Bodies Identified - SciTechDaily",
+      "description": "Dementia with Lewy bodies (DLB) is a common form of dementia that currently has no cure. Previous research has suggested that the gut microbiome, or the microorganisms that reside in the human digestive tract, may play a role in the neurodegenerative disorder…",
+      "url": "https://scitechdaily.com/dementia-breakthrough-three-intestinal-bacteria-found-in-dementia-with-lewy-bodies-identified/",
+      "urlToImage": "https://scitechdaily.com/images/Gut-Bacteria-Associated-With-Dementia-With-Lewy-Bodies.jpg",
+      "publishedAt": "2023-03-05T14:12:11Z",
+      "content": "ByNagoya UniversityMarch 5, 2023 Researchers have identified gut bacteria that are associated with dementia with Lewy bodies. Credit: Reiko Matsushita Dementia with Lewy bodies (DLB) is a common fo… [+6387 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Sandee LaMotte",
+      "title": "A story of resilience: How a young woman survived loss of both legs and a failing heart - CNN",
+      "description": "Born with a congenital heart condition, a young model flatlined after contracting Covid-19 and then lost both legs. Yet Claire Bridges told her doctors she considers herself the luckiest person on this planet.",
+      "url": "https://www.cnn.com/2023/03/05/health/resilience-claire-bridges-model-covid-wellness/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230302104006-07-covid-amputee-resilience-heart-surgery-modeling-wellness.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-03-05T14:08:00Z",
+      "content": "Her smile is bright, cheery, sometimes goofy and always contagious. But pictures cant completely capture her upbeat, positive vibe. At 21, Claire Bridges has a mature spirit that amazes those who lov… [+10302 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "nejm.org"
+      },
+      "author": "nejm.org",
+      "title": "Intravascular Imaging–Guided or Angiography-Guided Complex PCI | NEJM - nejm.org",
+      "description": null,
+      "url": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa2216607",
+      "urlToImage": null,
+      "publishedAt": "2023-03-05T14:00:44Z",
+      "content": null
+    }
+  ]
+}
